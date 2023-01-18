@@ -4,5 +4,4 @@ int main(){
     printf("nooluyor");
     scanf("%d",&a);
     printf("%d",a);
-
     }
